@@ -1,0 +1,18 @@
+{
+  "name": "stylelint-config-ekwing",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/ekwing/stylelint-config-ekwing",
+  "author": "L-Chris <563303226@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint-config-prettier": "^5.0.0",
+    "stylelint-config-recess-order": "^2.0.1",
+    "stylelint-config-standard": "^18.2.0",
+    "stylelint-order": "^2.1.0",
+    "stylelint-scss": "^3.5.4"
+  },
+  "peerDependencies": {
+    "stylelint": "^9.10.1"
+  }
+}
